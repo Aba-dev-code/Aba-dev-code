@@ -1,4 +1,4 @@
-# 👋 Hi, I'mGabriel Abayomi Adesanya
+# 👋 Hi, I'm Gabriel Abayomi Adesanya
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=C%2B%2B+Game+Developer;Unreal+Engine+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
